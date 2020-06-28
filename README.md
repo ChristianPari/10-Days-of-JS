@@ -1,6 +1,14 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 3
+- Arrays:
+    - an exersice that used a function that takes in an array of numbers as an argument and returns the second largest number in the array
+- Try, Catch, Finally:
+    - an exersice that uses a function to takes in an argument and if it is a string then it reverses and logs it, otherwise it logs an error
+- Throw:
+    - this exersice checks a number that is passed as an argument in a function to be positive, negative, or zero and returns 'YES' for positive or a specific throw error for the other possibilites
+
 ### Day 2
 - If Else Statements:
     - an exersice that takes a numerical value between 0 and 30 and returns an A-F depending on the previous value
