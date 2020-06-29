@@ -1,6 +1,14 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 4
+- Create Rectangle Object:
+    - an exersice that has a function which takes in side lengths as arguments and returns an object with length, width, area, and perimeter properties
+- Count Objects:
+    - an exersice that loops through an array of objects and compares the properties within each object and returns how many times (in number form) the objects had that we're equal to one another
+- Classes:
+    - this exersice was to create a custom class named Polygon which has a constructor that takes in an array and then has a function that is ran to evaluate the perimeter
+
 ### Day 3
 - Arrays:
     - an exersice that used a function that takes in an array of numbers as an argument and returns the second largest number in the array
