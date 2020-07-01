@@ -1,6 +1,12 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 6
+- Bitwise Operators:
+    - this exersice consisted of creating a nested loop to test a value from a bitwise operation of two numbers (a,b) aganist another predetermined number (k) being passed in as an argument. The answer is the greatest bitwise value gathered that is less than the value of the predetermined number (k)
+- Javascript Dates:
+    - an exersice in which I needed to create a variable that would get its' value from the Date constructor where the parameter is passed into the parameter of the Date Object. Then. using the getDay method of the Date constructor I retrived the index of the actual day (sun through sat / 0 - 6) and then created an array of the days of the week and return the array with the number retrieved from getDay as the index number that I wanted returned 
+
 ### Day 5
 - Inheritance:
     - an exercise that had me learn how to create a custom method and add it to an exisiting class, along with then creating a sub class that inherits the method from that exisiting (super) class so that the sub class can then have the method ran for it's output
