@@ -1,6 +1,14 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 5
+- Inheritance:
+    - an exercise that had me learn how to create a custom method and add it to an exisiting class, along with then creating a sub class that inherits the method from that exisiting (super) class so that the sub class can then have the method ran for it's output
+- Template Literals:
+    - an exercise to evaluate data from an experssions array that is recieved via readline from HackerRank and then passed into a function which evaluates and returns the side lengths of the rectangle propeties (area and perimeter) that were found by excuting a opertaion using the indexes of the expressions array
+- Arrow Functions:
+    - an exercise to take in an array of numbers and return the array with odd numbers tripled and even numbers doubled
+
 ### Day 4
 - Create Rectangle Object:
     - an exersice that has a function which takes in side lengths as arguments and returns an object with length, width, area, and perimeter properties
