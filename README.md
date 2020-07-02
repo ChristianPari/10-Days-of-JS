@@ -1,6 +1,14 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 7
+- Regular Expressions I
+    - an exersice where I created a Regular Expression to check if a string input had the first index a vowel and if that last index was the same vowel
+- Regular Expressions II
+    - an exersice where I created a Regular Expression that is used to match a string input that inlcudes either Mr. Mrs. Ms. Dr. or Er. and is followed by any amount of characters
+- Regular Expressions III
+    - an exersice where I created a Regular Expression that was used to match either a single or a consecutive amount of numbers within a string
+
 ### Day 6
 - Bitwise Operators:
     - this exersice consisted of creating a nested loop to test a value from a bitwise operation of two numbers (a,b) aganist another predetermined number (k) being passed in as an argument. The answer is the greatest bitwise value gathered that is less than the value of the predetermined number (k)
