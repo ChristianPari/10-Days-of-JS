@@ -1,6 +1,12 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 8
+- Create a Button
+    - an exersice using HTML, CSS and JS to create a BUTTON with specific demensions and when clicked, the innerHTML increments by 1 each time
+- Buttons Container
+    - an exersice to create a 3x3 grid of buttons with innerHTMLs of 1 thru 9 and have the nummber 5 button via onclick make the numbers move counterclockwise and cylce continously without the div ids changing, only the innerHTML will be changed
+
 ### Day 7
 - Regular Expressions I
     - an exersice where I created a Regular Expression to check if a string input had the first index a vowel and if that last index was the same vowel
