@@ -1,0 +1,11 @@
+#btns {
+    width: 50%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+
+button {
+    font-size: 100px;
+    height: 200px;
+}
