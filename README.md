@@ -1,6 +1,10 @@
 # 10 Days of JavaScript @HackerRank
 Within each day folder contains files that HackerRank assigned for that day. Files ending with 'HR' are HackerRanks' setup files that are submitted on the site, the others ending in 'RM' are the remaastered ones that I create myself with the same assignment but convert it into a readline program that does the same thing but in a slightly different way.
 ## Timeline
+### Day 9
+- Binary Calculator
+    - an exersice using HTML, CSS, and JS to create a working Binary Calculator
+
 ### Day 8
 - Create a Button
     - an exersice using HTML, CSS and JS to create a BUTTON with specific demensions and when clicked, the innerHTML increments by 1 each time
